@@ -1,11 +1,14 @@
 # SAYNA-UMLMERISE-JARVIS1-052022
+<h2>Cas d'utilisation</h2>
 <p>
-Les différents acteurs dans le diagrammes sont :<br>
+<h3>Les différents acteurs dans le diagrammes sont :</h3>
 -proprietaires<br>
 -co-proprietaires<br>
 -membres<br>
 -visiteurs<br>
 -Google API<br>
--Objet connecter
+-Objet connecter<br>
 <p>
+<h2>Modèle conceptuel de données</h2>
 <img src="./MCDJARVIS.png"/>
+<img src="./M.png"/>
