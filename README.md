@@ -65,4 +65,4 @@
 <img src="./JARV.png"/>
 <img src="./Mcd2.png"/>
 <img src="./jarvisVue.png"/>
-<img src="./Diagramme_de_classe.png"/>
+<img src="./D_de_classe.png"/>
